@@ -69,13 +69,3 @@ This project uses machine learning models to **predict the selling price of used
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/bike-price-predictor.git
-
-# Navigate to the project folder
-cd bike-price-predictor
-
-# Open the Jupyter Notebook or Python script
